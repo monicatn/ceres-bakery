@@ -384,6 +384,15 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #E87E04;
 }
+.project-description {
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+.project-img {
+	height: auto;
+	max-width: 100%;
+	margin: 20px 0;
+}
 /* Pretty Photo */
 .pp_expand {
 	display: none !important;
